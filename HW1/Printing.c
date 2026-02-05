@@ -20,4 +20,3 @@ int main() {
 
 	//I forgot to put a return statement
 }
-
